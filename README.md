@@ -1,2 +1,2 @@
 # Tools
-Useful tools for daily uses
+Useful tools for daily use cases
